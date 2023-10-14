@@ -83,11 +83,11 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/oussamaEXA/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/ErroujiOussama/count.svg?"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/oussamaEXA/oussamaEXA/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ErroujiOussama/ErroujiOussama/output/snake.svg" alt="Snake animation" />
 
 ###
