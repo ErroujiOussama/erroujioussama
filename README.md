@@ -88,6 +88,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ErroujiOussama/erroujioussama/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/erroujioussama/erroujioussama/output/snake.svg" alt="Snake animation" />
 
 ###
