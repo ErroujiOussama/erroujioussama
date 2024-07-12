@@ -96,9 +96,9 @@
 <p><a href="https://www.buymeacoffee.com/ossamaerroc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ossamaerroc" /></a><a href="https://ko-fi.com/erroujiossama"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="erroujiossama" /></a></p><br><br>
 
 <div align="left"> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erroujioussama&show_icons=true&locale=en&layout=compact" alt="erroujioussama" /> 
 </div>
 <p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erroujioussama&show_icons=true&locale=en&layout=compact" alt="erroujioussama" /> 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erroujioussama&show_icons=true&locale=en" alt="erroujioussama" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erroujioussama&" alt="erroujioussama" />
 </p>
