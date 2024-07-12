@@ -98,7 +98,8 @@
 <div align="left"> 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erroujioussama&show_icons=true&locale=en&layout=compact" alt="erroujioussama" /> 
 </div>
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=erroujioussama&show_icons=true&locale=en" alt="erroujioussama" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=erroujioussama&" alt="erroujioussama" />
+<p align="center">
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erroujioussama&show_icons=true&locale=en" alt="erroujioussama" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erroujioussama&" alt="erroujioussama" />
 </p>
 
