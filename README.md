@@ -1,23 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oussama Errouji</h1>
 <h3 align="center">A Robotics Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erroujioussama&label=Profile%20views&color=0e75b6&style=flat" alt="erroujioussama" /> </p>
-  <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-</style>
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=oussama-errouji" target="_blank">Follow on LinkedIn</a>
 <p align="left"> <a href="https://twitter.com/oussamaerrouji" target="blank"><img src="https://img.shields.io/twitter/follow/oussamaerrouji?logo=twitter&style=for-the-badge" alt="oussamaerrouji" /></a> </p>
 <h3 align="left">Connect with me:</h3>
@@ -136,3 +119,21 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erroujioussama&" alt="erroujioussama" />
 </p>
 
+
+<style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+</style>
