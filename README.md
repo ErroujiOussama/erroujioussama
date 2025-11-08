@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Oussama Errouji</h1>
-<h3 align="center">A Robotics Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erroujioussama&label=Profile%20views&color=0e75b6&style=flat" alt="erroujioussama" /> </p>
 <p align="center">
  <div align="center">
